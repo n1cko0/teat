@@ -5,3 +5,7 @@ header{
 div{
     display: flex;
 }
+
+ul{
+    padding: 0;
+}
